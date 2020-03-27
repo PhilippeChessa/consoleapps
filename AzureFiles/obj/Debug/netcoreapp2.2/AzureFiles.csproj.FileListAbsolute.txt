@@ -1,0 +1,25 @@
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.deps.json
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.runtimeconfig.json
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.runtimeconfig.dev.json
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.dll
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.csprojAssemblyReference.cache
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.csproj.CoreCompileInputs.cache
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.AssemblyInfoInputs.cache
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.AssemblyInfo.cs
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.pdb
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.dll
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.pdb
+C:\Programs\Sources\CSharp 2012\_PCA Tools Console\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.dll.config
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.dll.config
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.deps.json
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.runtimeconfig.json
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.runtimeconfig.dev.json
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.dll
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\bin\Debug\netcoreapp2.2\AzureFiles.pdb
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.csprojAssemblyReference.cache
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.csproj.CoreCompileInputs.cache
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.AssemblyInfoInputs.cache
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.AssemblyInfo.cs
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.dll
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.pdb
+C:\Users\p.chessa\source\repos\consoleapps\AzureFiles\obj\Debug\netcoreapp2.2\AzureFiles.genruntimeconfig.cache
